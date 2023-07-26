@@ -30,7 +30,6 @@ Now run the server.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```html
 <html>
 <head>
 <meta charset='utf-8'>
@@ -95,14 +94,11 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 </body>
 </html>
 
-```
 
 ## OUTPUT:
 ![triangle1](triangle1.JPG)
 
 ![triangle2](triangle2.JPG)
-
-### Home Page:
 
 
 ## Result:
